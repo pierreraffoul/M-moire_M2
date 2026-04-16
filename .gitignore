@@ -1,0 +1,46 @@
+# Binaire MCP (trop lourd pour git, re-téléchargeable)
+github-mcp-server
+
+# Secrets — NE JAMAIS committer
+.env
+*.key
+*.pem
+
+# Résultats des expériences (volumineux, regenerables)
+results/logs/
+results/reports/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# uv / virtualenvs
+.venv/
+venv/
+.python-version
+
+# uv lock (optionnel : committer pour reproductibilité)
+# uv.lock
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter (si utilisé pour l'analyse)
+.ipynb_checkpoints/

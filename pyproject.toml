@@ -1,0 +1,55 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "github-audit-bench"
+version = "0.1.0"
+description = "Empirical comparison of 3 LangGraph multi-agent architectures on MCP efficiency for automated GitHub open-source project auditing"
+requires-python = ">=3.11"
+dependencies = [
+    # LangGraph — orchestration (StateGraph, Command, ToolNode)
+    "langgraph>=0.4",
+    # LangChain Anthropic — ChatAnthropic interface uniquement
+    "langchain-anthropic>=0.3",
+    # MCP adapter — MultiServerMCPClient, tool_interceptors
+    "langchain-mcp-adapters>=0.1",
+    # LangChain core — types de base (messages, tools) — dépendance transitive
+    "langchain-core>=0.3",
+    # Data validation
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    # Logging structuré JSON
+    "structlog>=24.0",
+    # Secrets
+    "python-dotenv>=1.0",
+    # Retry réseau (erreurs API, pas erreurs MCP)
+    "tenacity>=8.0",
+    # Config repos à auditer
+    "pyyaml>=6.0",
+    # HTTP client (factual_checker, appels GitHub REST directs)
+    "httpx>=0.27",
+    # Barre de progression pour run_full_benchmark
+    "rich>=13.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+    # Freeze versions pour reproductibilité
+    "pip>=24.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+]

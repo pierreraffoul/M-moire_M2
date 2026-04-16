@@ -1,0 +1,68 @@
+# Corpus de 10 dépôts GitHub publics pour le benchmark
+# Sélectionnés pour couvrir des profils variés (taille, activité, catégorie)
+# afin de tester la robustesse des 3 architectures multi-agents.
+
+repositories:
+  # --- Large & active (qualité attendue haute) ---
+  - owner: facebook
+    name: react
+    category: large_active
+    expected_quality: high
+    notes: "Frontend majeur, CI/CD mature, grande communauté"
+
+  - owner: django
+    name: django
+    category: large_active
+    expected_quality: high
+    notes: "Framework Python mature, sécurité documentée"
+
+  - owner: pallets
+    name: flask
+    category: large_active
+    expected_quality: high
+    notes: "Micro-framework Python, petite base de code bien maintenue"
+
+  # --- Medium (qualité modérée) ---
+  - owner: tiangolo
+    name: fastapi
+    category: medium_active
+    expected_quality: high
+    notes: "API framework moderne, docs excellentes"
+
+  - owner: psf
+    name: requests
+    category: medium_stable
+    expected_quality: medium
+    notes: "Bibliothèque stable, peu de commits récents"
+
+  - owner: encode
+    name: httpx
+    category: medium_active
+    expected_quality: high
+    notes: "HTTP client async Python, bien testé"
+
+  # --- Declining / legacy ---
+  - owner: kennethreitz
+    name: records
+    category: declining
+    expected_quality: low
+    notes: "Dépôt peu maintenu, bon cas de test pour détection dégradation"
+
+  - owner: pypa
+    name: pipenv
+    category: medium_contested
+    expected_quality: medium
+    notes: "Activité irrégulière, issues ouvertes nombreuses"
+
+  # --- Security concerns ---
+  - owner: ansible
+    name: ansible
+    category: large_security_focus
+    expected_quality: high
+    notes: "Grand projet avec beaucoup d'alertes Dependabot historiques"
+
+  - owner: tornadoweb
+    name: tornado
+    category: medium_stable
+    expected_quality: medium
+    notes: "Async Python mature, moins actif récemment"
