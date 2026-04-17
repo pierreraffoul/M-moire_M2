@@ -1,0 +1,44 @@
+
+================================================================================
+  TABLEAU COMPARATIF — 3 ARCHITECTURES LANGGRAPH
+  Repo : pallets/flask  |  Date : 2026-04-16
+================================================================================
+
++------------------------+------------------------+------------------------+------------------------+------------------------+
+| Métrique               |        Baseline (seq.) |             Supervisor |           Hierarchical |          Decentralized |
++------------------------+------------------------+------------------------+------------------------+------------------------+
+| MCP calls totaux       |                     42 |                     44 |                     44 |                     43 |
+| MCP calls redondants   |                      0 |                     10 |                     11 |                     12 |
+| Findings totaux        |                     41 |                     47 |                     38 |                     39 |
+| Score global (/20)     |                   14.6 |                   17.7 |                   17.1 |                   17.3 |
+| Coût total ($)         |                $1.5600 |                $1.6533 |                $1.5483 |                $1.4777 |
+| Overhead orchestr. ($) |                $0.0000 |                $0.0404 |                $0.0684 |                $0.0141 |
+| Durée (s)              |                    579 |                    608 |                    595 |                    552 |
+| LLM calls agents       |                      5 |                     27 |                     27 |                     30 |
+| LLM calls orchestr.    |                      0 |                      6 |                     10 |                      1 |
++------------------------+------------------------+------------------------+------------------------+------------------------+
+
+  Deltas par rapport à la baseline (étape 5 — séquentiel indépendant)
+
+  [Supervisor]
+    MCP calls              baseline=42  val=44  delta=+4.8%
+    Findings               baseline=41  val=47  delta=+14.6%
+    Coût                   baseline=1.56  val=1.6533  delta=+6.0%
+    Durée                  baseline=579.0  val=608  delta=+5.0%
+    LLM overhead           baseline=0  val=6  delta=+500.0%
+
+  [Hierarchical]
+    MCP calls              baseline=42  val=44  delta=+4.8%
+    Findings               baseline=41  val=38  delta=-7.3%
+    Coût                   baseline=1.56  val=1.5483  delta=-0.7%
+    Durée                  baseline=579.0  val=595  delta=+2.8%
+    LLM overhead           baseline=0  val=10  delta=+900.0%
+
+  [Decentralized]
+    MCP calls              baseline=42  val=43  delta=+2.4%
+    Findings               baseline=41  val=39  delta=-4.9%
+    Coût                   baseline=1.56  val=1.4777  delta=-5.3%
+    Durée                  baseline=579.0  val=552  delta=-4.7%
+    LLM overhead           baseline=0  val=1  delta=+0.0%
+
+================================================================================
