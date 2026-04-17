@@ -32,6 +32,7 @@ from typing import Annotated, Any, Literal
 
 from langchain_anthropic import ChatAnthropic
 from langchain_core.messages import AnyMessage, HumanMessage, SystemMessage, ToolMessage
+from langchain_core.tools import ToolException
 from langchain_mcp_adapters.client import MultiServerMCPClient
 from langgraph.graph import END, START, StateGraph
 from langgraph.prebuilt import ToolNode
@@ -160,6 +161,27 @@ class BaseAuditAgent:
         path = Path(__file__).parent.parent.parent / "prompts" / prompt_file
         return path.read_text(encoding="utf-8")
 
+    def _make_cached_system_message(self) -> SystemMessage:
+        """Retourne le SystemMessage avec cache_control Anthropic.
+
+        Le system prompt est identique à chaque tour de la boucle ReAct.
+        Le marquer en cache_control="ephemeral" force Anthropic à le stocker
+        côté serveur : cache_creation_input_tokens au 1er tour, puis
+        cache_read_input_tokens aux tours suivants (×10 moins cher).
+
+        Returns:
+            SystemMessage avec contenu structuré (liste de blocs).
+        """
+        return SystemMessage(
+            content=[
+                {
+                    "type": "text",
+                    "text": self.system_prompt,
+                    "cache_control": {"type": "ephemeral"},
+                }
+            ]
+        )
+
     @staticmethod
     def _estimate_tokens(messages: list) -> int:
         """Estime le nombre de tokens dans une liste de messages.
@@ -232,6 +254,20 @@ class BaseAuditAgent:
                 session, self.allowed_mcp_tools
             )
             model_with_tools = self.model.bind_tools(tools)
+
+            # Cache les définitions d'outils MCP (identiques à chaque tour).
+            # L'API Anthropic cache tout jusqu'au dernier outil marqué ephemeral.
+            # On modifie directement la liste dans les kwargs du RunnableBinding.
+            try:
+                api_tools = list(model_with_tools.kwargs.get("tools", []))
+                if api_tools:
+                    last = dict(api_tools[-1])
+                    last["cache_control"] = {"type": "ephemeral"}
+                    api_tools[-1] = last
+                    model_with_tools = model_with_tools.bind(tools=api_tools)
+            except Exception as exc:
+                _logger.warning("tool_cache_setup_failed", error=str(exc))
+
             graph = self._build_react_graph(model_with_tools, tools)
 
             owner, repo_name = repo.split("/", 1)
@@ -297,7 +333,15 @@ class BaseAuditAgent:
         # include_raw=True → renvoie {"raw": AIMessage, "parsed": AgentReportOutput}
         # nécessaire pour accéder à usage_metadata après la synthèse
         synthesis_model = self.model.with_structured_output(AgentReportOutput, include_raw=True)
-        tool_node = ToolNode(tools)
+
+        # Handler d'erreur pour ToolNode : LangGraph 1.1.x ne gère par défaut
+        # que ToolInvocationError, pas ToolException (lancée par les tools MCP).
+        # Ce handler convertit TOUTE exception en ToolMessage d'erreur,
+        # permettant au LLM de continuer et de reporter l'échec gracieusement.
+        def _mcp_tool_error_handler(e: Exception) -> str:
+            return f"Tool call failed — {type(e).__name__}: {e}"
+
+        tool_node = ToolNode(tools, handle_tool_errors=_mcp_tool_error_handler)
         agent = self  # pour les closures ci-dessous
 
         # ── Nœud 1 : appel LLM ────────────────────────────────────────────────
@@ -309,7 +353,7 @@ class BaseAuditAgent:
             dépasse CONTEXT_TOKEN_LIMIT tokens (estimé), force la synthèse
             sans appeler le LLM et log l'événement pour analyse scientifique.
             """
-            messages = [SystemMessage(content=agent.system_prompt)] + state["messages"]
+            messages = [agent._make_cached_system_message()] + state["messages"]
             estimated_tokens = agent._estimate_tokens(messages)
 
             if estimated_tokens > agent.CONTEXT_TOKEN_LIMIT:
@@ -331,6 +375,7 @@ class BaseAuditAgent:
             # Log token usage pour mesure scientifique du coût
             usage = getattr(response, "usage_metadata", None)
             if usage:
+                details = usage.get("input_token_details", {})
                 _logger.info(
                     "llm_call",
                     agent=agent.name,
@@ -338,7 +383,8 @@ class BaseAuditAgent:
                     iteration=state["iteration_count"],
                     input_tokens=usage.get("input_tokens", 0),
                     output_tokens=usage.get("output_tokens", 0),
-                    cache_read_tokens=usage.get("input_token_details", {}).get("cache_read", 0),
+                    cache_read_tokens=details.get("cache_read", 0),
+                    cache_creation_tokens=details.get("cache_creation", 0),
                 )
 
             return {
@@ -365,7 +411,7 @@ class BaseAuditAgent:
             try:
                 synthesis_result = await synthesis_model.ainvoke(
                     [
-                        SystemMessage(content=agent.system_prompt),
+                        agent._make_cached_system_message(),
                         *state["messages"],
                         HumanMessage(
                             content=(
@@ -384,6 +430,7 @@ class BaseAuditAgent:
                 # Log token usage de la synthèse
                 usage = getattr(raw_ai_msg, "usage_metadata", None)
                 if usage:
+                    details = usage.get("input_token_details", {})
                     _logger.info(
                         "llm_call",
                         agent=agent.name,
@@ -391,7 +438,8 @@ class BaseAuditAgent:
                         iteration="synthesize",
                         input_tokens=usage.get("input_tokens", 0),
                         output_tokens=usage.get("output_tokens", 0),
-                        cache_read_tokens=usage.get("input_token_details", {}).get("cache_read", 0),
+                        cache_read_tokens=details.get("cache_read", 0),
+                        cache_creation_tokens=details.get("cache_creation", 0),
                     )
 
                 report = AgentReport(
