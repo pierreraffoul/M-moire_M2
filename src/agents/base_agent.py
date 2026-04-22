@@ -307,6 +307,7 @@ class BaseAuditAgent:
             repository=repo,
             score=report.score,
             findings_count=len(report.findings),
+            findings=[f.model_dump() for f in report.findings],
         )
         return report
 

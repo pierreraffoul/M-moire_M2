@@ -56,6 +56,10 @@ class Settings(BaseSettings):
         default=20,
         description="Nombre maximum d'itérations ReAct par agent.",
     )
+    max_budget_usd: float = Field(
+        default=60.0,
+        description="Budget maximum en dollars pour le benchmark complet (90 audits).",
+    )
 
 
 @lru_cache(maxsize=1)
