@@ -1,0 +1,1776 @@
+======================================================================
+  BENCHMARK GitHubAuditBench — 90 audits planifiés
+  Budget max : $60 | Timeout par audit : 900s
+======================================================================
+[  1/90] → supervisor     | facebook/react               | run1 …
+time=2026-04-23T01:49:20.220+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T01:49:20.527+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T01:49:20.531+02:00 level=INFO msg="server run start"
+time=2026-04-23T01:49:20.531+02:00 level=INFO msg="server connecting"
+time=2026-04-23T01:49:20.531+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T01:49:20.534+02:00 level=INFO msg="session initialized"
+time=2026-04-23T01:51:13.781+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T01:51:13.781+02:00 level=INFO msg="server session ended"
+time=2026-04-23T01:51:16.178+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T01:51:16.410+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T01:51:16.412+02:00 level=INFO msg="server run start"
+time=2026-04-23T01:51:16.412+02:00 level=INFO msg="server connecting"
+time=2026-04-23T01:51:16.413+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T01:51:16.416+02:00 level=INFO msg="session initialized"
+time=2026-04-23T01:53:15.712+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T01:53:15.712+02:00 level=INFO msg="server session ended"
+time=2026-04-23T01:53:18.465+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T01:53:18.860+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T01:53:18.862+02:00 level=INFO msg="server run start"
+time=2026-04-23T01:53:18.862+02:00 level=INFO msg="server connecting"
+time=2026-04-23T01:53:18.862+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T01:53:18.864+02:00 level=INFO msg="session initialized"
+time=2026-04-23T01:55:17.083+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T01:55:17.083+02:00 level=INFO msg="server session ended"
+time=2026-04-23T01:55:19.491+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T01:55:19.696+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T01:55:19.701+02:00 level=INFO msg="server run start"
+time=2026-04-23T01:55:19.701+02:00 level=INFO msg="server connecting"
+time=2026-04-23T01:55:19.701+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T01:55:19.704+02:00 level=INFO msg="session initialized"
+time=2026-04-23T01:57:03.154+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T01:57:03.154+02:00 level=INFO msg="server session ended"
+time=2026-04-23T01:57:05.403+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T01:57:05.606+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T01:57:05.608+02:00 level=INFO msg="server run start"
+time=2026-04-23T01:57:05.608+02:00 level=INFO msg="server connecting"
+time=2026-04-23T01:57:05.608+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T01:57:05.610+02:00 level=INFO msg="session initialized"
+time=2026-04-23T01:58:23.074+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T01:58:23.074+02:00 level=INFO msg="server session ended"
+[  1/90] ✓ supervisor     | facebook/react               | run 1 |  $2.069 |  555s | score 17.3
+         Cumul : $2.0689 | écoulé : 9min | réussis : 1 | échecs : 0
+
+[  2/90] → supervisor     | facebook/react               | run2 …
+time=2026-04-23T01:58:33.975+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T01:58:34.224+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T01:58:34.226+02:00 level=INFO msg="server run start"
+time=2026-04-23T01:58:34.226+02:00 level=INFO msg="server connecting"
+time=2026-04-23T01:58:34.226+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T01:58:34.229+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:00:47.316+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:00:47.316+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:00:49.791+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:00:49.991+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:00:49.995+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:00:49.995+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:00:49.995+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:00:49.998+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:02:36.680+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:02:36.680+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:02:39.273+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:02:39.488+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:02:39.490+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:02:39.490+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:02:39.490+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:02:39.493+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:04:24.935+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:04:24.935+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:04:29.626+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:04:29.870+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:04:29.871+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:04:29.872+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:04:29.872+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:04:29.873+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:06:30.026+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:06:30.026+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:06:32.393+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:06:32.582+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:06:32.584+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:06:32.584+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:06:32.584+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:06:32.586+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:08:09.521+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:08:09.521+02:00 level=INFO msg="server session ended"
+[  2/90] ✓ supervisor     | facebook/react               | run 2 |  $2.229 |  589s | score 17.5
+         Cumul : $4.2982 | écoulé : 19min | réussis : 2 | échecs : 0
+
+[  3/90] → supervisor     | facebook/react               | run3 …
+time=2026-04-23T02:08:23.053+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:08:23.261+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:08:23.263+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:08:23.264+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:08:23.264+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:08:23.266+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:10:38.977+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:10:38.978+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:10:42.328+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:10:42.537+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:10:42.539+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:10:42.539+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:10:42.539+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:10:42.542+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:11:03.368+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:11:03.368+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:11:06.538+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:11:06.734+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:11:06.736+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:11:06.736+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:11:06.736+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:11:06.738+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:13:02.478+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:13:02.478+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:13:05.420+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:13:05.672+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:13:05.674+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:13:05.674+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:13:05.674+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:13:05.675+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:14:52.372+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:14:52.372+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:14:55.099+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:14:55.303+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:14:55.304+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:14:55.304+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:14:55.304+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:14:55.307+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:16:19.374+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:16:19.374+02:00 level=INFO msg="server session ended"
+[  3/90] ✓ supervisor     | facebook/react               | run 3 |  $2.324 |  488s | score 18.5
+         Cumul : $6.6217 | écoulé : 27min | réussis : 3 | échecs : 0
+
+[  4/90] → hierarchical   | facebook/react               | run1 …
+time=2026-04-23T02:16:33.651+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:16:33.879+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:16:33.881+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:16:33.881+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:16:33.881+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:16:33.883+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:18:57.536+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:18:57.536+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:19:00.017+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:19:00.224+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:19:00.226+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:19:00.226+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:19:00.226+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:19:00.228+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:19:18.317+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:19:18.318+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:19:21.264+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:19:21.489+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:19:21.492+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:19:21.492+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:19:21.492+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:19:21.494+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:20:36.082+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:20:36.082+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:20:49.386+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:20:49.585+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:20:49.587+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:20:49.587+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:20:49.587+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:20:49.590+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:22:32.136+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:22:32.136+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:22:34.164+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:22:34.367+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:22:34.369+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:22:34.370+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:22:34.370+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:22:34.372+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:24:12.163+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:24:12.163+02:00 level=INFO msg="server session ended"
+[  4/90] ✓ hierarchical   | facebook/react               | run 1 |  $1.756 |  482s | score 14.6
+         Cumul : $8.3776 | écoulé : 35min | réussis : 4 | échecs : 0
+
+[  5/90] → hierarchical   | facebook/react               | run2 …
+time=2026-04-23T02:24:35.108+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:24:35.300+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:24:35.302+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:24:35.302+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:24:35.302+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:24:35.305+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:27:09.717+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:27:09.718+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:27:12.826+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:27:13.049+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:27:13.051+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:27:13.051+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:27:13.051+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:27:13.053+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:28:10.021+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:28:10.022+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:28:12.124+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:28:12.321+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:28:12.323+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:28:12.323+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:28:12.323+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:28:12.326+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:29:32.979+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:29:32.980+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:29:46.448+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:29:46.641+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:29:46.642+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:29:46.642+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:29:46.643+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:29:46.645+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:31:33.135+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:31:33.135+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:31:36.723+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:31:36.936+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:31:36.939+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:31:36.939+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:31:36.939+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:31:36.942+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:33:27.540+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:33:27.540+02:00 level=INFO msg="server session ended"
+[  5/90] ✓ hierarchical   | facebook/react               | run 2 |  $1.996 |  565s | score 18.1
+         Cumul : $9.9081 | écoulé : 45min | réussis : 5 | échecs : 0
+
+[  6/90] → hierarchical   | facebook/react               | run3 …
+time=2026-04-23T02:33:50.051+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:33:50.257+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:33:50.258+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:33:50.258+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:33:50.258+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:33:50.261+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:35:59.929+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:35:59.929+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:36:02.644+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:36:02.865+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:36:02.868+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:36:02.868+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:36:02.868+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:36:02.871+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:37:43.445+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:37:43.445+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:37:45.742+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:37:45.945+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:37:45.948+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:37:45.948+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:37:45.948+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:37:45.951+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:39:18.437+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:39:18.437+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:39:31.135+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:39:31.341+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:39:31.343+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:39:31.343+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:39:31.343+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:39:31.345+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:41:32.833+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:41:32.833+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:41:36.010+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:41:36.235+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:41:36.237+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:41:36.237+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:41:36.237+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:41:36.240+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:43:32.809+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:43:32.810+02:00 level=INFO msg="server session ended"
+[  6/90] ✓ hierarchical   | facebook/react               | run 3 |  $1.934 |  607s | score 17.1
+         Cumul : $11.8422 | écoulé : 55min | réussis : 6 | échecs : 0
+
+[  7/90] → decentralized  | facebook/react               | run1 …
+time=2026-04-23T02:43:52.265+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:43:52.459+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:43:52.460+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:43:52.460+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:43:52.460+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:43:52.463+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:46:04.750+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:46:04.750+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:46:04.775+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:46:05.190+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:46:05.191+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:46:05.191+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:46:05.191+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:46:05.194+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:48:21.260+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:48:21.260+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:48:21.285+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:48:21.496+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:48:21.498+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:48:21.498+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:48:21.498+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:48:21.500+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:50:05.785+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:50:05.785+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:50:05.812+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:50:05.995+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:50:05.998+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:50:05.998+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:50:05.998+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:50:06.000+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:50:34.407+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:50:34.407+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:50:34.435+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:50:34.667+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:50:34.668+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:50:34.668+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:50:34.668+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:50:34.671+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:52:04.470+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:52:04.471+02:00 level=INFO msg="server session ended"
+[  7/90] ✓ decentralized  | facebook/react               | run 1 |  $2.477 |  503s | score 14.4
+         Cumul : $14.3195 | écoulé : 64min | réussis : 7 | échecs : 0
+
+[  8/90] → decentralized  | facebook/react               | run2 …
+time=2026-04-23T02:52:15.469+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:52:15.711+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:52:15.713+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:52:15.713+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:52:15.713+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:52:15.715+02:00 level=INFO msg="session initialized"ttime=2026-04-23T02:54:31.741+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:54:31.742+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:54:31.770+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:54:32.024+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:54:32.026+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:54:32.027+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:54:32.027+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:54:32.029+02:00 level=INFO msg="session initialized"ttime=2026-04-23T02:56:37.796+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:56:37.796+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:56:37.824+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:56:38.030+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:56:38.033+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:56:38.033+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:56:38.033+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:56:38.037+02:00 level=INFO msg="session initialized"ttime=2026-04-23T02:58:25.420+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:58:25.420+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:58:25.445+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:58:25.644+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:58:25.646+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:58:25.646+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:58:25.646+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:58:25.649+02:00 level=INFO msg="session initialized"
+time=2026-04-23T02:59:48.859+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T02:59:48.860+02:00 level=INFO msg="server session ended"
+time=2026-04-23T02:59:48.881+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T02:59:49.096+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T02:59:49.098+02:00 level=INFO msg="server run start"
+time=2026-04-23T02:59:49.098+02:00 level=INFO msg="server connecting"
+time=2026-04-23T02:59:49.098+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T02:59:49.101+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:01:18.189+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:01:18.189+02:00 level=INFO msg="server session ended"
+[  8/90] ✓ decentralized  | facebook/react               | run 2 |  $2.174 |  551s | score 17.6
+         Cumul : $16.4936 | écoulé : 73min | réussis : 8 | échecs : 0
+
+[  9/90] → decentralized  | facebook/react               | run3 …
+time=2026-04-23T03:01:26.951+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:01:27.168+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:01:27.170+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:01:27.170+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:01:27.170+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:01:27.173+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:03:54.457+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:03:54.457+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:03:54.483+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:03:54.673+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:03:54.675+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:03:54.676+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:03:54.676+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:03:54.679+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:06:00.201+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:06:00.201+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:06:00.221+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:06:00.444+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:06:00.446+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:06:00.446+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:06:00.446+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:06:00.448+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:08:05.964+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:08:05.964+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:08:05.991+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:08:06.201+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:08:06.204+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:08:06.204+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:08:06.204+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:08:06.207+02:00 level=INFO msg="session initialized"
+time=2026-04-23T03:08:25.689+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:08:25.689+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:08:25.718+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:08:25.943+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:08:25.946+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:08:25.946+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:08:25.946+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:08:25.949+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:09:41.612+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:09:41.612+02:00 level=INFO msg="server session ended"
+[  9/90] ✓ decentralized  | facebook/react               | run 3 |  $1.724 |  505s | score 14.7
+         Cumul : $18.2181 | écoulé : 81min | réussis : 9 | échecs : 0
+
+[ 10/90] → supervisor     | django/django                | run1 …
+time=2026-04-23T03:09:54.653+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:09:54.856+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:09:54.857+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:09:54.857+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:09:54.857+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:09:54.859+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:11:45.112+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:11:45.112+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:11:47.471+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:11:47.700+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:11:47.702+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:11:47.702+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:11:47.702+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:11:47.704+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:13:22.203+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:13:22.203+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:13:24.202+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:13:25.440+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:13:25.443+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:13:25.443+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:13:25.443+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:13:25.446+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:15:17.689+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:15:17.690+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:15:19.880+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:15:20.107+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:15:20.110+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:15:20.110+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:15:20.110+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:15:20.113+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:17:16.640+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:17:16.640+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:17:21.481+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:17:21.705+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:17:21.706+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:17:21.706+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:17:21.706+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:17:21.709+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:18:54.776+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:18:54.776+02:00 level=INFO msg="server session ended"
+[ 10/90] ✓ supervisor     | django/django                | run 1 |  $1.498 |  553s | score 17.9
+         Cumul : $19.7157 | écoulé : 90min | réussis : 10 | échecs : 0
+
+[ 11/90] → supervisor     | django/django                | run2 …
+time=2026-04-23T03:19:08.112+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:19:08.334+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:19:08.337+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:19:08.337+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:19:08.337+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:19:08.340+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:20:59.177+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:20:59.178+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:21:01.532+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:21:01.811+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:21:01.813+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:21:01.813+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:21:01.813+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:21:01.815+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:22:49.173+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:22:49.174+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:22:51.515+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:22:51.733+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:22:51.735+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:22:51.735+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:22:51.735+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:22:51.737+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:24:53.601+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:24:53.601+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:25:01.365+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:25:01.599+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:25:01.602+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:25:01.602+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:25:01.602+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:25:01.604+02:00 level=INFO msg="session initialized"titime=2026-04-23T03:26:09.941+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:26:09.941+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:26:12.915+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:26:13.125+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:26:13.127+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:26:13.127+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:26:13.127+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:26:13.130+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:27:53.894+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:27:53.894+02:00 level=INFO msg="server session ended"
+[ 11/90] ✓ supervisor     | django/django                | run 2 |  $1.248 |  604s | score 17.6
+         Cumul : $20.5962 | écoulé : 99min | réussis : 11 | échecs : 0
+
+[ 12/90] → supervisor     | django/django                | run3 …
+time=2026-04-23T03:28:07.699+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:28:07.923+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:28:07.926+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:28:07.926+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:28:07.926+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:28:07.928+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:30:21.056+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:30:21.056+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:30:23.706+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:30:23.899+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:30:23.901+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:30:23.901+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:30:23.901+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:30:23.902+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:32:22.025+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:32:22.025+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:32:24.872+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:32:25.065+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:32:25.067+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:32:25.067+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:32:25.067+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:32:25.070+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:34:13.227+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:34:13.228+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:34:15.605+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:34:15.830+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:34:15.831+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:34:15.831+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:34:15.831+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:34:15.834+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:36:30.436+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:36:30.437+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:36:34.560+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:36:34.785+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:36:34.787+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:36:34.787+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:36:34.787+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:36:34.789+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:38:10.158+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:38:10.159+02:00 level=INFO msg="server session ended"
+[ 12/90] ✓ supervisor     | django/django                | run 3 |  $2.249 |  614s | score 16.8
+         Cumul : $22.8456 | écoulé : 109min | réussis : 12 | échecs : 0
+
+[ 13/90] → hierarchical   | django/django                | run1 …
+time=2026-04-23T03:38:23.791+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:38:23.991+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:38:23.993+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:38:23.993+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:38:23.993+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:38:23.996+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:40:16.256+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:40:16.256+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:40:18.247+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:40:18.459+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:40:18.461+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:40:18.461+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:40:18.461+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:40:18.463+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:41:55.174+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:41:55.174+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:41:57.167+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:41:57.389+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:41:57.391+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:41:57.391+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:41:57.391+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:41:57.393+02:00 level=INFO msg="session initializedtitime=2026-04-23T03:43:28.932+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:43:28.932+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:43:41.857+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:43:42.054+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:43:42.056+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:43:42.056+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:43:42.056+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:43:42.058+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:45:41.229+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:45:41.229+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:45:44.383+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:45:44.587+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:45:44.590+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:45:44.590+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:45:44.590+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:45:44.592+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:47:38.998+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:47:38.998+02:00 level=INFO msg="server session ended"
+[ 13/90] ✓ hierarchical   | django/django                | run 1 |  $1.427 |  576s | score 18.0
+         Cumul : $24.2730 | écoulé : 119min | réussis : 13 | échecs : 0
+
+[ 14/90] → hierarchical   | django/django                | run2 …
+time=2026-04-23T03:48:00.525+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:48:00.742+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:48:00.744+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:48:00.745+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:48:00.745+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:48:00.747+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:49:54.365+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:49:54.365+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:49:56.536+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:49:56.726+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:49:56.729+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:49:56.729+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:49:56.729+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:49:56.731+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:51:41.332+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:51:41.332+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:51:43.556+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:51:43.763+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:51:43.765+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:51:43.765+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:51:43.765+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:51:43.767+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:53:11.519+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:53:11.519+02:00 level=INFO msg="server session ended"ttime=2026-04-23T03:53:25.072+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:53:25.271+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:53:25.273+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:53:25.273+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:53:25.273+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:53:25.275+02:00 level=INFO msg="session initializedtttime=2026-04-23T03:55:42.940+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:55:42.941+02:00 level=INFO msg="server session ended"
+time=2026-04-23T03:55:45.001+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:55:45.232+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:55:45.235+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:55:45.235+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:55:45.235+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:55:45.238+02:00 level=INFO msg="session initialized"ttime=2026-04-23T03:58:10.611+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T03:58:10.611+02:00 level=INFO msg="server session ended"
+[ 14/90] ✓ hierarchical   | django/django                | run 2 |  $2.093 |  638s | score 17.9
+         Cumul : $26.3665 | écoulé : 129min | réussis : 14 | échecs : 0
+
+[ 15/90] → hierarchical   | django/django                | run3 …
+time=2026-04-23T03:58:38.281+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T03:58:38.498+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T03:58:38.500+02:00 level=INFO msg="server run start"
+time=2026-04-23T03:58:38.500+02:00 level=INFO msg="server connecting"
+time=2026-04-23T03:58:38.500+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T03:58:38.502+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:01:11.373+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:01:11.373+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:01:13.851+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:01:14.047+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:01:14.049+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:01:14.049+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:01:14.049+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:01:14.051+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:03:13.025+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:03:13.025+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:03:15.750+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:03:15.967+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:03:15.969+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:03:15.969+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:03:15.969+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:03:15.971+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:04:44.695+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:04:44.695+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:04:57.750+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:04:57.955+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:04:57.957+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:04:57.957+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:04:57.957+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:04:57.959+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:06:53.159+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:06:53.159+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:06:55.515+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:06:56.132+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:06:56.134+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:06:56.134+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:06:56.135+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:06:56.137+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:08:49.723+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:08:49.723+02:00 level=INFO msg="server session ended"
+[ 15/90] ✓ hierarchical   | django/django                | run 3 |  $2.268 |  635s | score 18.4
+         Cumul : $28.6349 | écoulé : 140min | réussis : 15 | échecs : 0
+
+[ 16/90] → decentralized  | django/django                | run1 …
+time=2026-04-23T04:09:08.933+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:09:09.175+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:09:09.177+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:09:09.177+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:09:09.178+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:09:09.180+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:11:11.350+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:11:11.350+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:11:11.375+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:11:11.587+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:11:11.589+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:11:11.589+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:11:11.589+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:11:11.591+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:13:09.639+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:13:09.639+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:13:09.665+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:13:09.922+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:13:09.923+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:13:09.923+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:13:09.923+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:13:09.926+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:14:47.824+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:14:47.824+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:14:47.850+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:14:52.453+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:14:52.455+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:14:52.455+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:14:52.455+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:14:52.457+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:16:58.200+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:16:58.200+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:16:58.230+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:16:58.455+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:16:58.457+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:16:58.457+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:16:58.457+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:16:58.460+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:18:36.502+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:18:36.503+02:00 level=INFO msg="server session ended"
+[ 16/90] ✓ decentralized  | django/django                | run 1 |  $2.191 |  577s | score 17.7
+         Cumul : $30.8255 | écoulé : 149min | réussis : 16 | échecs : 0
+
+[ 17/90] → decentralized  | django/django                | run2 …
+time=2026-04-23T04:18:46.012+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:18:46.209+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:18:46.210+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:18:46.210+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:18:46.210+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:18:46.213+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:20:27.711+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:20:27.712+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:20:27.739+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:20:27.933+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:20:27.935+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:20:27.935+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:20:27.935+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:20:27.937+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:22:38.625+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:22:38.625+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:22:38.651+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:22:38.903+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:22:38.906+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:22:38.906+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:22:38.906+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:22:38.909+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:24:33.018+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:24:33.018+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:24:33.046+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:24:33.250+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:24:33.252+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:24:33.252+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:24:33.252+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:24:33.255+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:26:02.724+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:26:02.724+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:26:02.752+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:26:02.994+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:26:02.998+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:26:02.998+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:26:02.998+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:26:03.000+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:27:24.428+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:27:24.429+02:00 level=INFO msg="server session ended"
+[ 17/90] ✓ decentralized  | django/django                | run 2 |  $2.726 |  526s | score 17.8
+         Cumul : $33.5515 | écoulé : 158min | réussis : 17 | échecs : 0
+
+[ 18/90] → decentralized  | django/django                | run3 …
+time=2026-04-23T04:27:31.826+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:27:32.033+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:27:32.036+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:27:32.036+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:27:32.036+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:27:32.039+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:29:26.409+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:29:26.410+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:29:26.439+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:29:26.680+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:29:26.682+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:29:26.682+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:29:26.682+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:29:26.685+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:31:21.095+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:31:21.095+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:31:21.121+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:31:21.369+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:31:21.371+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:31:21.371+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:31:21.371+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:31:21.374+02:00 level=INFO msg="session initialized"ttime=2026-04-23T04:33:05.761+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:33:05.761+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:33:05.786+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:33:05.989+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:33:05.992+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:33:05.992+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:33:05.992+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:33:05.995+02:00 level=INFO msg="session initialized"time=2026-04-23T04:34:52.067+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:34:52.067+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:34:52.092+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:34:52.348+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:34:52.351+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:34:52.351+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:34:52.351+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:34:52.354+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:36:12.078+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:36:12.078+02:00 level=INFO msg="server session ended"
+[ 18/90] ✓ decentralized  | django/django                | run 3 |  $2.226 |  573s | score 17.8
+         Cumul : $33.9228 | écoulé : 168min | réussis : 18 | échecs : 0
+
+[ 19/90] → supervisor     | pallets/flask                | run1 …
+time=2026-04-23T04:36:23.577+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:36:23.772+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:36:23.774+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:36:23.775+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:36:23.775+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:36:23.777+02:00 level=INFO msg="session initialized"
+ttime=2026-04-23T04:38:06.073+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:38:06.073+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:38:08.846+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:38:09.054+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:38:09.058+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:38:09.058+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:38:09.058+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:38:09.061+02:00 level=INFO msg="session initialized"time=2026-04-23T04:39:33.023+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:39:33.023+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:39:35.709+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:39:35.911+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:39:35.913+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:39:35.914+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:39:35.914+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:39:35.917+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:41:14.754+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:41:14.754+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:41:17.980+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:41:18.411+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:41:18.414+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:41:18.414+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:41:18.414+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:41:18.417+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:43:16.920+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:43:16.921+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:43:19.354+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:43:19.563+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:43:19.566+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:43:19.566+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:43:19.566+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:43:19.569+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:44:54.809+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:44:54.809+02:00 level=INFO msg="server session ended"
+[ 19/90] ✓ supervisor     | pallets/flask                | run 1 |  $1.398 |  523s | score 16.6
+         Cumul : $35.3205 | écoulé : 176min | réussis : 19 | échecs : 0
+
+[ 20/90] → supervisor     | pallets/flask                | run2 …
+time=2026-04-23T04:45:07.119+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:45:07.312+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:45:07.315+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:45:07.315+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:45:07.315+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:45:07.318+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:47:07.452+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:47:07.452+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:47:10.130+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:47:10.326+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:47:10.329+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:47:10.329+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:47:10.329+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:47:10.332+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:48:46.754+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:48:46.754+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:48:49.248+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:48:49.479+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:48:49.483+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:48:49.483+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:48:49.483+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:48:49.486+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:50:19.202+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:50:19.202+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:50:21.777+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:50:22.010+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:50:22.011+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:50:22.011+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:50:22.011+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:50:22.014+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:52:02.582+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:52:02.582+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:52:05.369+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:52:05.588+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:52:05.589+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:52:05.589+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:52:05.589+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:52:05.592+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:53:25.706+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:53:25.706+02:00 level=INFO msg="server session ended"
+[ 20/90] ✓ supervisor     | pallets/flask                | run 2 |  $1.472 |  512s | score 17.1
+         Cumul : $36.7927 | écoulé : 185min | réussis : 20 | échecs : 0
+
+[ 21/90] → supervisor     | pallets/flask                | run3 …
+time=2026-04-23T04:53:39.348+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:53:39.563+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:53:39.566+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:53:39.566+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:53:39.566+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:53:39.569+02:00 level=INFO msg="session initialized"
+ttime=2026-04-23T04:55:23.675+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:55:23.675+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:55:30.516+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:55:30.718+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:55:30.721+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:55:30.721+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:55:30.721+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:55:30.724+02:00 level=INFO msg="session initialized"time=2026-04-23T04:57:54.617+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:57:54.617+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:57:59.995+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:58:00.248+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:58:00.250+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:58:00.250+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:58:00.250+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:58:00.253+02:00 level=INFO msg="session initialized"
+time=2026-04-23T04:59:52.912+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T04:59:52.912+02:00 level=INFO msg="server session ended"
+time=2026-04-23T04:59:55.630+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T04:59:55.840+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T04:59:55.843+02:00 level=INFO msg="server run start"
+time=2026-04-23T04:59:55.843+02:00 level=INFO msg="server connecting"
+time=2026-04-23T04:59:55.843+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T04:59:55.845+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:01:56.154+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:01:56.154+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:01:59.416+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:01:59.646+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:01:59.649+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:01:59.649+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:01:59.649+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:01:59.651+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:03:26.718+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:03:26.718+02:00 level=INFO msg="server session ended"
+[ 21/90] ✓ supervisor     | pallets/flask                | run 3 |  $1.598 |  600s | score 17.9
+         Cumul : $38.3903 | écoulé : 195min | réussis : 21 | échecs : 0
+
+[ 22/90] → hierarchical   | pallets/flask                | run1 …
+time=2026-04-23T05:03:41.354+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:03:41.726+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:03:41.728+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:03:41.728+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:03:41.728+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:03:41.731+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:05:28.829+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:05:28.829+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:05:31.463+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:05:31.658+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:05:31.660+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:05:31.660+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:05:31.660+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:05:31.663+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:07:14.415+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:07:14.415+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:07:16.557+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:07:16.804+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:07:16.806+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:07:16.806+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:07:16.806+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:07:16.809+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:08:19.664+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:08:19.664+02:00 level=INFO msg="server session ended"
+ttime=2026-04-23T05:08:34.122+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:08:34.337+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:08:34.340+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:08:34.340+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:08:34.340+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:08:34.343+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:10:41.353+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:10:41.353+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:10:43.699+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:10:43.916+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:10:43.919+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:10:43.919+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:10:43.919+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:10:43.922+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:12:37.717+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:12:37.717+02:00 level=INFO msg="server session ended"
+[ 22/90] ✓ hierarchical   | pallets/flask                | run 1 |  $1.378 |  610s | score 17.5
+         Cumul : $41.3771 | écoulé : 204min | réussis : 22 | échecs : 0
+
+[ 23/90] → hierarchical   | pallets/flask                | run2 …
+time=2026-04-23T05:12:58.502+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:12:58.716+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:12:58.718+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:12:58.718+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:12:58.718+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:12:58.721+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:14:54.751+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:14:54.751+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:14:57.332+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:14:57.546+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:14:57.548+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:14:57.548+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:14:57.548+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:14:57.551+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:16:34.872+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:16:34.873+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:16:37.352+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:16:37.820+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:16:37.823+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:16:37.823+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:16:37.823+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:16:37.826+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:17:57.449+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:17:57.449+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:18:09.693+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:18:09.933+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:18:09.936+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:18:09.936+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:18:09.936+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:18:09.939+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:20:10.403+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:20:10.403+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:20:13.524+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:20:13.763+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:20:13.767+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:20:13.767+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:20:13.767+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:20:13.769+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:22:12.703+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:22:12.703+02:00 level=INFO msg="server session ended"
+[ 23/90] ✓ hierarchical   | pallets/flask                | run 2 |  $1.583 |  586s | score 16.1
+         Cumul : $42.9599 | écoulé : 213min | réussis : 23 | échecs : 0
+
+[ 24/90] → hierarchical   | pallets/flask                | run3 …
+time=2026-04-23T05:22:44.065+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:22:44.282+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:22:44.286+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:22:44.286+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:22:44.286+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:22:44.289+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:24:53.788+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:24:53.789+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:24:55.789+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:24:56.074+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:24:56.076+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:24:56.076+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:24:56.076+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:24:56.079+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:26:42.335+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:26:42.335+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:26:44.425+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:26:44.608+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:26:44.610+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:26:44.610+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:26:44.610+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:26:44.613+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:28:03.966+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:28:03.966+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:28:17.689+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:28:17.917+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:28:17.919+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:28:17.919+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:28:17.919+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:28:17.921+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:30:42.173+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:30:42.173+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:30:44.791+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:30:45.046+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:30:45.048+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:30:45.048+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:30:45.048+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:30:45.050+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:32:15.811+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:32:15.811+02:00 level=INFO msg="server session ended"
+[ 24/90] ✓ hierarchical   | pallets/flask                | run 3 |  $1.642 |  599s | score 16.9
+         Cumul : $44.6024 | écoulé : 223min | réussis : 24 | échecs : 0
+
+[ 25/90] → decentralized  | pallets/flask                | run1 …
+time=2026-04-23T05:32:38.582+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:32:38.783+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:32:38.784+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:32:38.784+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:32:38.784+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:32:38.787+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:34:41.612+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:34:41.612+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:34:41.639+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:34:41.852+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:34:41.853+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:34:41.853+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:34:41.853+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:34:41.856+02:00 level=INFO msg="session initialized"ttime=2026-04-23T05:37:04.785+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:37:04.785+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:37:04.810+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:37:05.050+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:37:05.052+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:37:05.052+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:37:05.052+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:37:05.054+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:38:38.956+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:38:38.956+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:38:38.981+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:38:39.179+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:38:39.181+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:38:39.181+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:38:39.181+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:38:39.183+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:40:16.524+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:40:16.524+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:40:16.549+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:40:16.761+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:40:16.762+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:40:16.762+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:40:16.763+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:40:16.765+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:41:29.393+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:41:29.394+02:00 level=INFO msg="server session ended"
+[ 25/90] ✓ decentralized  | pallets/flask                | run 1 |  $1.517 |  543s | score 17.1
+         Cumul : $46.1190 | écoulé : 232min | réussis : 25 | échecs : 0
+
+[ 26/90] → decentralized  | pallets/flask                | run2 …
+time=2026-04-23T05:41:41.127+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:41:41.329+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:41:41.331+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:41:41.332+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:41:41.332+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:41:41.334+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:43:50.128+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:43:50.129+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:43:50.153+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:43:50.370+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:43:50.371+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:43:50.371+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:43:50.371+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:43:50.373+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:45:52.858+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:45:52.858+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:45:52.884+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:45:53.077+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:45:53.079+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:45:53.079+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:45:53.079+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:45:53.081+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:47:35.093+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:47:35.094+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:47:35.119+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:47:35.340+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:47:35.342+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:47:35.342+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:47:35.342+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:47:35.344+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:48:47.168+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:48:47.168+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:48:47.194+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:48:47.412+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:48:47.413+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:48:47.413+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:48:47.413+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:48:47.416+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:48:47.626+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:48:47.626+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 26/90] ✗ decentralized  | pallets/flask                | run 2 |     err |  427s | score  err
+         Cumul : $46.1190 | écoulé : 240min | réussis : 25 | échecs : 1
+
+[ 27/90] → decentralized  | pallets/flask                | run3 …
+time=2026-04-23T05:48:47.675+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:48:48.201+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:48:48.203+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:48:48.203+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:48:48.203+02:00 level=INFO msg="server session connected" session_id=""time=2026-04-23T05:48:49.125+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:48:49.126+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 27/90] ✗ decentralized  | pallets/flask                | run 3 |     err |    6s | score  err
+         Cumul : $44.6910 | écoulé : 240min | réussis : 26 | échecs : 1
+
+[ 28/90] → supervisor     | tiangolo/fastapi             | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 28/90] ✗ supervisor     | tiangolo/fastapi             | run 1 |     err |    0s | score  err
+         Cumul : $44.6910 | écoulé : time=2026-04-23T05:49:16.121+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:16.122+02:00 level=INFO msg="server session ended"
+time=2026-04-23T05:49:16.150+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:16.341+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:16.342+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:16.342+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:16.342+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:16.345+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:16.552+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:16.552+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 27/90] ✗ decentralized  | pallets/flask                | run 3 |     err |  173s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 1
+
+[ 28/90] → supervisor     | tiangolo/fastapi             | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 28/90] ✗ supervisor     | tiangolo/fastapi             | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 2
+
+[ 29/90] → supervisor     | tiangolo/fastapi             | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 29/90] ✗ supervisor     | tiangolo/fastapi             | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 3
+
+[ 30/90] → supervisor     | tiangolo/fastapi             | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 30/90] ✗ supervisor     | tiangolo/fastapi             | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 4
+
+[ 31/90] → hierarchical   | tiangolo/fastapi             | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 31/90] ✗ hierarchical   | tiangolo/fastapi             | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 5
+
+[ 32/90] → hierarchical   | tiangolo/fastapi             | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 32/90] ✗ hierarchical   | tiangolo/fastapi             | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 6
+
+[ 33/90] → hierarchical   | tiangolo/fastapi             | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 33/90] ✗ hierarchical   | tiangolo/fastapi             | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 7
+
+[ 34/90] → decentralized  | tiangolo/fastapi             | run1 …
+time=2026-04-23T05:49:18.179+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:18.383+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:18.384+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:18.384+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:18.384+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:18.387+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:18.603+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:18.603+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 34/90] ✗ decentralized  | tiangolo/fastapi             | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 8
+
+[ 35/90] → decentralized  | tiangolo/fastapi             | run2 …
+time=2026-04-23T05:49:18.645+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:18.848+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:18.850+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:18.850+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:18.850+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:18.852+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:19.083+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:19.083+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 35/90] ✗ decentralized  | tiangolo/fastapi             | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 9
+
+[ 36/90] → decentralized  | tiangolo/fastapi             | run3 …
+time=2026-04-23T05:49:19.124+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:19.363+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:19.364+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:19.365+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:19.365+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:19.367+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:19.577+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:19.577+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 36/90] ✗ decentralized  | tiangolo/fastapi             | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 10
+
+[ 37/90] → supervisor     | psf/requests                 | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 37/90] ✗ supervisor     | psf/requests                 | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 11
+
+[ 38/90] → supervisor     | psf/requests                 | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 38/90] ✗ supervisor     | psf/requests                 | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 12
+
+[ 39/90] → supervisor     | psf/requests                 | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 39/90] ✗ supervisor     | psf/requests                 | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 13
+
+[ 40/90] → hierarchical   | psf/requests                 | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 40/90] ✗ hierarchical   | psf/requests                 | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 14
+
+[ 41/90] → hierarchical   | psf/requests                 | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 41/90] ✗ hierarchical   | psf/requests                 | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 15
+
+[ 42/90] → hierarchical   | psf/requests                 | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 42/90] ✗ hierarchical   | psf/requests                 | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 16
+
+[ 43/90] → decentralized  | psf/requests                 | run1 …
+time=2026-04-23T05:49:21.293+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:21.867+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:21.869+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:21.869+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:21.869+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:21.872+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:22.080+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:22.080+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 43/90] ✗ decentralized  | psf/requests                 | run 1 |     err |    1s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 17
+
+[ 44/90] → decentralized  | psf/requests                 | run2 …
+time=2026-04-23T05:49:22.122+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:22.343+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:22.346+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:22.346+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:22.346+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:22.348+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:22.557+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:22.557+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 44/90] ✗ decentralized  | psf/requests                 | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 18
+
+[ 45/90] → decentralized  | psf/requests                 | run3 …
+time=2026-04-23T05:49:22.598+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:22.809+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:22.810+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:22.810+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:22.810+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:22.813+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:23.034+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:23.034+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 45/90] ✗ decentralized  | psf/requests                 | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 19
+
+[ 46/90] → supervisor     | encode/httpx                 | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 46/90] ✗ supervisor     | encode/httpx                 | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 20
+
+[ 47/90] → supervisor     | encode/httpx                 | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 47/90] ✗ supervisor     | encode/httpx                 | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 21
+
+[ 48/90] → supervisor     | encode/httpx                 | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 48/90] ✗ supervisor     | encode/httpx                 | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 22
+
+[ 49/90] → hierarchical   | encode/httpx                 | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 49/90] ✗ hierarchical   | encode/httpx                 | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 23
+
+[ 50/90] → hierarchical   | encode/httpx                 | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 50/90] ✗ hierarchical   | encode/httpx                 | run 2 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 24
+
+[ 51/90] → hierarchical   | encode/httpx                 | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 51/90] ✗ hierarchical   | encode/httpx                 | run 3 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 25
+
+[ 52/90] → decentralized  | encode/httpx                 | run1 …
+time=2026-04-23T05:49:24.370+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:24.603+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:24.606+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:24.606+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:24.606+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:24.608+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:24.841+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:24.841+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 52/90] ✗ decentralized  | encode/httpx                 | run 1 |     err |    1s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 26
+
+[ 53/90] → decentralized  | encode/httpx                 | run2 …
+time=2026-04-23T05:49:24.882+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:25.100+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:25.102+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:25.102+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:25.102+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:25.104+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:25.557+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:25.557+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 53/90] ✗ decentralized  | encode/httpx                 | run 2 |     err |    1s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 27
+
+[ 54/90] → decentralized  | encode/httpx                 | run3 …
+time=2026-04-23T05:49:25.598+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:25.859+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:25.861+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:25.861+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:25.861+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:25.863+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:26.075+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:26.075+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 54/90] ✗ decentralized  | encode/httpx                 | run 3 |     err |    1s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 28
+
+[ 55/90] → supervisor     | kennethreitz/records         | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 55/90] ✗ supervisor     | kennethreitz/records         | run 1 |     err |    0s | score  err
+         Cumul : $29.5100 | écoulé : 241min | réussis : 26 | échecs : 29
+
+[ 56/90] ⏭ SKIP  supervisor     | kennethreitz/records | run2
+[ 57/90] → supervisor     | kennethreitz/records         | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 57/90] ✗ supervisor     | kennethreitz/records         | run 3 |     err |    1s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 30
+
+[ 58/90] → hierarchical   | kennethreitz/records         | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 58/90] ✗ hierarchical   | kennethreitz/records         | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 31
+
+[ 59/90] → hierarchical   | kennethreitz/records         | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 59/90] ✗ hierarchical   | kennethreitz/records         | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 32
+
+[ 60/90] → hierarchical   | kennethreitz/records         | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 60/90] ✗ hierarchical   | kennethreitz/records         | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 33
+
+[ 61/90] → decentralized  | kennethreitz/records         | run1 …
+time=2026-04-23T05:49:27.736+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:27.990+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:27.992+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:27.992+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:27.992+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:27.994+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:28.207+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:28.207+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 61/90] ✗ decentralized  | kennethreitz/records         | run 1 |     err |    1s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 34
+
+[ 62/90] → decentralized  | kennethreitz/records         | run2 …
+time=2026-04-23T05:49:28.248+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:28.443+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:28.444+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:28.444+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:28.444+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:28.447+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:28.655+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:28.656+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 62/90] ✗ decentralized  | kennethreitz/records         | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 35
+
+[ 63/90] → decentralized  | kennethreitz/records         | run3 …
+time=2026-04-23T05:49:28.697+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:28.882+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:28.885+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:28.885+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:28.885+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:28.888+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:29.099+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:29.099+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 63/90] ✗ decentralized  | kennethreitz/records         | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 36
+
+[ 64/90] → supervisor     | pypa/pipenv                  | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 64/90] ✗ supervisor     | pypa/pipenv                  | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 37
+
+[ 65/90] → supervisor     | pypa/pipenv                  | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 65/90] ✗ supervisor     | pypa/pipenv                  | run 2 |     err |    1s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 38
+
+[ 66/90] → supervisor     | pypa/pipenv                  | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 66/90] ✗ supervisor     | pypa/pipenv                  | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 39
+
+[ 67/90] → hierarchical   | pypa/pipenv                  | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 67/90] ✗ hierarchical   | pypa/pipenv                  | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 40
+
+[ 68/90] → hierarchical   | pypa/pipenv                  | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 68/90] ✗ hierarchical   | pypa/pipenv                  | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 41
+
+[ 69/90] → hierarchical   | pypa/pipenv                  | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 69/90] ✗ hierarchical   | pypa/pipenv                  | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 42
+
+[ 70/90] → decentralized  | pypa/pipenv                  | run1 …
+time=2026-04-23T05:49:30.812+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:30.998+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:31.000+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:31.000+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:31.000+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:31.003+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:31.221+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:31.221+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 70/90] ✗ decentralized  | pypa/pipenv                  | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 43
+
+[ 71/90] → decentralized  | pypa/pipenv                  | run2 …
+time=2026-04-23T05:49:31.262+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:31.451+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:31.453+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:31.453+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:31.453+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:31.456+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:31.668+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:31.668+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 71/90] ✗ decentralized  | pypa/pipenv                  | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 44
+
+[ 72/90] → decentralized  | pypa/pipenv                  | run3 …
+time=2026-04-23T05:49:31.718+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:31.923+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:31.925+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:31.925+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:31.925+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:31.928+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:32.159+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:32.159+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 72/90] ✗ decentralized  | pypa/pipenv                  | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 45
+
+[ 73/90] → supervisor     | ansible/ansible              | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 73/90] ✗ supervisor     | ansible/ansible              | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 46
+
+[ 74/90] → supervisor     | ansible/ansible              | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 74/90] ✗ supervisor     | ansible/ansible              | run 2 |     err |    1s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 47
+
+[ 75/90] → supervisor     | ansible/ansible              | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 75/90] ✗ supervisor     | ansible/ansible              | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 48
+
+[ 76/90] → hierarchical   | ansible/ansible              | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 76/90] ✗ hierarchical   | ansible/ansible              | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 49
+
+[ 77/90] → hierarchical   | ansible/ansible              | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 77/90] ✗ hierarchical   | ansible/ansible              | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 50
+
+[ 78/90] → hierarchical   | ansible/ansible              | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 78/90] ✗ hierarchical   | ansible/ansible              | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 51
+
+[ 79/90] → decentralized  | ansible/ansible              | run1 …
+time=2026-04-23T05:49:33.820+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:34.045+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:34.047+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:34.047+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:34.047+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:34.049+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:34.296+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:34.296+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 79/90] ✗ decentralized  | ansible/ansible              | run 1 |     err |    1s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 52
+
+[ 80/90] → decentralized  | ansible/ansible              | run2 …
+time=2026-04-23T05:49:34.338+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:34.550+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:34.553+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:34.553+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:34.553+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:34.555+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:34.767+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:34.767+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 80/90] ✗ decentralized  | ansible/ansible              | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 53
+
+[ 81/90] → decentralized  | ansible/ansible              | run3 …
+time=2026-04-23T05:49:34.808+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:35.042+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:35.045+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:35.045+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:35.045+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:35.047+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:35.258+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:35.258+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 81/90] ✗ decentralized  | ansible/ansible              | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 54
+
+[ 82/90] → supervisor     | tornadoweb/tornado           | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 82/90] ✗ supervisor     | tornadoweb/tornado           | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 55
+
+[ 83/90] → supervisor     | tornadoweb/tornado           | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 83/90] ✗ supervisor     | tornadoweb/tornado           | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 56
+
+[ 84/90] → supervisor     | tornadoweb/tornado           | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 84/90] ✗ supervisor     | tornadoweb/tornado           | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 57
+
+[ 85/90] → hierarchical   | tornadoweb/tornado           | run1 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 85/90] ✗ hierarchical   | tornadoweb/tornado           | run 1 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 58
+
+[ 86/90] → hierarchical   | tornadoweb/tornado           | run2 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 86/90] ✗ hierarchical   | tornadoweb/tornado           | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 59
+
+[ 87/90] → hierarchical   | tornadoweb/tornado           | run3 …
+         ✗ ERREUR : Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too lo
+[ 87/90] ✗ hierarchical   | tornadoweb/tornado           | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 60
+
+[ 88/90] → decentralized  | tornadoweb/tornado           | run1 …
+time=2026-04-23T05:49:37.099+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:37.351+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:37.353+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:37.353+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:37.353+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:37.356+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:37.586+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:37.586+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 88/90] ✗ decentralized  | tornadoweb/tornado           | run 1 |     err |    1s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 61
+
+[ 89/90] → decentralized  | tornadoweb/tornado           | run2 …
+time=2026-04-23T05:49:37.627+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:37.842+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:37.844+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:37.844+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:37.844+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:37.846+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:38.057+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:38.057+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 89/90] ✗ decentralized  | tornadoweb/tornado           | run 2 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 62
+
+[ 90/90] → decentralized  | tornadoweb/tornado           | run3 …
+time=2026-04-23T05:49:38.098+02:00 level=INFO msg="starting server" version=0.33.1 host="" dynamicToolsets=false readOnly=true lockdownEnabled=false
+time=2026-04-23T05:49:38.279+02:00 level=INFO msg="token scopes fetched for filtering" scopes="[read:org repo]"
+GitHub MCP Server running on stdio
+time=2026-04-23T05:49:38.281+02:00 level=INFO msg="server run start"
+time=2026-04-23T05:49:38.281+02:00 level=INFO msg="server connecting"
+time=2026-04-23T05:49:38.281+02:00 level=INFO msg="server session connected" session_id=""
+time=2026-04-23T05:49:38.283+02:00 level=INFO msg="session initialized"
+time=2026-04-23T05:49:38.511+02:00 level=INFO msg="server session disconnected" session_id=""
+time=2026-04-23T05:49:38.511+02:00 level=INFO msg="server session ended"
+         ✗ ERREUR : unhandled errors in a TaskGroup (1 sub-exception)
+[ 90/90] ✗ decentralized  | tornadoweb/tornado           | run 3 |     err |    0s | score  err
+         Cumul : $30.5226 | écoulé : 241min | réussis : 26 | échecs : 63
+
+
+================================================================================
+  RÉSUMÉ FINAL DU BENCHMARK
+================================================================================
+  Audits total   : 90
+  Réussis        : 26
+  Échoués        : 63
+  Ignorés (skip) : 1
+  Coût total     : $30.5226
+  Durée totale   : 241 min
+
+  Métrique              supervisor                  hierarchical                decentralized               
+  ----------------------------------------------------------------------------------------------------------
+  MCP calls             34.889 ± 5.487              34.889 ± 5.555              23.125 ± 8.725              
+  Redondants            5.889 ± 1.616               6.111 ± 1.616               4.000 ± 2.330               
+  Taux redondance       0.168 ± 0.033               0.172 ± 0.027               0.162 ± 0.056               
+  Coût ($)              1.373 ± 0.508               0.958 ± 0.214               1.067 ± 0.731               
+  Overhead ($)          0.018 ± 0.006               0.037 ± 0.007               0.000 ± 0.000               
+  Durée (s)             562.657 ± 46.891            543.915 ± 35.905            539.273 ± 44.280            
+  Score /20             17.056 ± 1.075              16.739 ± 1.632              17.075 ± 1.020              
+================================================================================
+
+  Résumé sauvegardé : /Users/pierreraffoul/Documents/MIAGE/mémoire/mémoire_m2/langgraph_architectures/github-audit-bench/results/benchmark_summary.json

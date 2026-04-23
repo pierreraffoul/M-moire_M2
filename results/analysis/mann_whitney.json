@@ -1,0 +1,232 @@
+{
+  "total_mcp_calls": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 43.5,
+      "p_value": 0.934696,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 37.5,
+      "p_value": 0.844402,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 40.0,
+      "p_value": 0.395008,
+      "significant": false
+    }
+  },
+  "redundant_mcp_calls": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 59.5,
+      "p_value": 0.24218,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 43.5,
+      "p_value": 0.414823,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 28.0,
+      "p_value": 0.739463,
+      "significant": false
+    }
+  },
+  "redundancy_rate": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 59.0,
+      "p_value": 0.269924,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 39.5,
+      "p_value": 0.696093,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 25.5,
+      "p_value": 0.560156,
+      "significant": false
+    }
+  },
+  "mcp_data_volume_bytes": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 51.0,
+      "p_value": 0.653379,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 25.0,
+      "p_value": 0.363842,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 16.0,
+      "p_value": 0.114161,
+      "significant": false
+    }
+  },
+  "total_cost_usd": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 40.0,
+      "p_value": 0.713303,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 18.0,
+      "p_value": 0.108803,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 15.0,
+      "p_value": 0.090734,
+      "significant": false
+    }
+  },
+  "overhead_orchestration_cost_usd": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 0.0,
+      "p_value": 0.00028,
+      "significant": true
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 70.0,
+      "p_value": 0.000103,
+      "significant": true
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 63.0,
+      "p_value": 0.000175,
+      "significant": true
+    }
+  },
+  "wall_clock_duration_seconds": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 32.0,
+      "p_value": 0.307434,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 44.0,
+      "p_value": 0.417318,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 47.0,
+      "p_value": 0.114161,
+      "significant": false
+    }
+  },
+  "total_tokens_input": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 40.0,
+      "p_value": 0.713303,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 20.0,
+      "p_value": 0.161251,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 18.0,
+      "p_value": 0.173776,
+      "significant": false
+    }
+  },
+  "total_tokens_output": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 25.0,
+      "p_value": 0.111347,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 44.0,
+      "p_value": 0.417318,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 48.0,
+      "p_value": 0.090734,
+      "significant": false
+    }
+  },
+  "total_tokens_cache_read": {
+    "supervisor_vs_hierarchical": {
+      "n1": 10,
+      "n2": 9,
+      "U_statistic": 48.0,
+      "p_value": 0.838256,
+      "significant": false
+    },
+    "supervisor_vs_decentralized": {
+      "n1": 10,
+      "n2": 7,
+      "U_statistic": 39.0,
+      "p_value": 0.739613,
+      "significant": false
+    },
+    "hierarchical_vs_decentralized": {
+      "n1": 9,
+      "n2": 7,
+      "U_statistic": 42.0,
+      "p_value": 0.299126,
+      "significant": false
+    }
+  }
+}

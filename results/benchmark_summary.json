@@ -1,0 +1,128 @@
+{
+  "total_audits": 90,
+  "completed": 89,
+  "skipped": 1,
+  "succeeded": 26,
+  "failed": 63,
+  "cumul_cost_usd": 30.5226441,
+  "total_duration_min": 241.13947551528332,
+  "by_architecture": {
+    "supervisor": {
+      "n_succeeded": 9,
+      "n_failed": 20,
+      "mcp_calls": {
+        "mean": 34.8889,
+        "std": 5.4874,
+        "median": 32
+      },
+      "redundant_calls": {
+        "mean": 5.8889,
+        "std": 1.6159,
+        "median": 6
+      },
+      "redundancy_rate": {
+        "mean": 0.1678,
+        "std": 0.033,
+        "median": 0.1613
+      },
+      "cost_usd": {
+        "mean": 1.3731,
+        "std": 0.5084,
+        "median": 1.3863
+      },
+      "overhead_usd": {
+        "mean": 0.0182,
+        "std": 0.0058,
+        "median": 0.0161
+      },
+      "duration_s": {
+        "mean": 562.6571,
+        "std": 46.8913,
+        "median": 566.6156
+      },
+      "global_score": {
+        "mean": 17.0556,
+        "std": 1.0748,
+        "median": 17.0
+      }
+    },
+    "hierarchical": {
+      "n_succeeded": 9,
+      "n_failed": 21,
+      "mcp_calls": {
+        "mean": 34.8889,
+        "std": 5.5553,
+        "median": 36
+      },
+      "redundant_calls": {
+        "mean": 6.1111,
+        "std": 1.6159,
+        "median": 7
+      },
+      "redundancy_rate": {
+        "mean": 0.1725,
+        "std": 0.0269,
+        "median": 0.1875
+      },
+      "cost_usd": {
+        "mean": 0.9576,
+        "std": 0.2142,
+        "median": 0.8618
+      },
+      "overhead_usd": {
+        "mean": 0.0366,
+        "std": 0.0074,
+        "median": 0.0383
+      },
+      "duration_s": {
+        "mean": 543.9149,
+        "std": 35.905,
+        "median": 559.7717
+      },
+      "global_score": {
+        "mean": 16.7389,
+        "std": 1.6321,
+        "median": 17.2
+      }
+    },
+    "decentralized": {
+      "n_succeeded": 8,
+      "n_failed": 22,
+      "mcp_calls": {
+        "mean": 23.125,
+        "std": 8.725,
+        "median": 20.0
+      },
+      "redundant_calls": {
+        "mean": 4,
+        "std": 2.3299,
+        "median": 4.0
+      },
+      "redundancy_rate": {
+        "mean": 0.162,
+        "std": 0.056,
+        "median": 0.1803
+      },
+      "cost_usd": {
+        "mean": 1.0666,
+        "std": 0.7313,
+        "median": 0.7193
+      },
+      "overhead_usd": {
+        "mean": 0.0,
+        "std": 0.0,
+        "median": 0.0
+      },
+      "duration_s": {
+        "mean": 539.2728,
+        "std": 44.2804,
+        "median": 538.4026
+      },
+      "global_score": {
+        "mean": 17.075,
+        "std": 1.0195,
+        "median": 17.4
+      }
+    }
+  }
+}

@@ -31,6 +31,7 @@ dependencies = [
     "httpx>=0.27",
     # Barre de progression pour run_full_benchmark
     "rich>=13.0",
+    "scipy>=1.17.1",
 ]
 
 [project.optional-dependencies]
