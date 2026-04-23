@@ -1,0 +1,56 @@
+{
+  "supervisor": {
+    "n_runs": 10,
+    "matrix_avg": {
+      "code_quality×security": 1.8,
+      "code_quality×community": 2.2,
+      "code_quality×documentation": 1.0,
+      "community×documentation": 1.2,
+      "code_quality×license": 1.9,
+      "documentation×license": 0.1,
+      "documentation×security": 0.3,
+      "community×security": 0.1,
+      "license×security": 0.1
+    },
+    "tools_avg": {
+      "get_repository_tree": 4.3,
+      "get_file_contents": 3.3,
+      "list_commits": 1.0,
+      "search_code": 0.1
+    }
+  },
+  "hierarchical": {
+    "n_runs": 9,
+    "matrix_avg": {
+      "code_quality×security": 1.56,
+      "code_quality×license": 1.78,
+      "code_quality×community": 2.11,
+      "code_quality×documentation": 1.11,
+      "community×documentation": 1.11,
+      "documentation×security": 0.11
+    },
+    "tools_avg": {
+      "get_repository_tree": 4.33,
+      "get_file_contents": 2.44,
+      "list_commits": 1.0
+    }
+  },
+  "decentralized": {
+    "n_runs": 7,
+    "matrix_avg": {
+      "code_quality×community": 2.0,
+      "code_quality×documentation": 1.0,
+      "community×documentation": 1.43,
+      "code_quality×security": 1.29,
+      "code_quality×license": 2.0,
+      "documentation×documentation": 0.29,
+      "documentation×security": 0.14
+    },
+    "tools_avg": {
+      "get_repository_tree": 4.29,
+      "get_file_contents": 2.71,
+      "list_commits": 1.0,
+      "search_code": 0.14
+    }
+  }
+}
