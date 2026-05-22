@@ -45,4 +45,5 @@ Thumbs.db
 # Jupyter (si utilisé pour l'analyse)
 .ipynb_checkpoints/
 
-CLAUDE.md.claude/
+CLAUDE.md
+.claude/
